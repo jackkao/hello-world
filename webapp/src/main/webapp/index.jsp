@@ -1,6 +1,6 @@
-<form action="action_page.php">
+<form action="action_page.jsp">
   <div class="container">
-    <h1>New user Register for DevOps Help</h1>
+    <h1>Register for DevOps Help</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Jack Kao  </h1>
+   <h1> Jack Kao - DevOps  </h1>
 
   
 </form>
