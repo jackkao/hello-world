@@ -1,6 +1,6 @@
 <form action="action_page.jsp">
   <div class="container">
-    <h1>Register for DevOps Help</h1>
+    <h1>New Register for DevOps </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -27,11 +27,7 @@
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-
-   <h1> Jack Kao - DevOps  </h1>
+     <h1> Jack Kao - DevOps  </h1>
 
   
 </form>
