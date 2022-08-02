@@ -1,6 +1,6 @@
 <form action="action_page.jsp">
   <div class="container">
-    <h1>Learning DevOps - Register by Jack Cao</h1>
+    <h1>Learning DevOps - Register User</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
